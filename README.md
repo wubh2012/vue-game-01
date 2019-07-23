@@ -1,4 +1,4 @@
-# vue-demo-1
+# vue-game-01
 
 ## Project setup
 ```
